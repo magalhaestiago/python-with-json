@@ -1,0 +1,25 @@
+{
+    "pessoas": [
+        {
+            "id": 1,
+            "nome": "Tiago",
+            "idade": 21,
+            "peso": 59,
+            "altura": 1.65
+        },
+        {
+            "id": 2,
+            "nome": "josias",
+            "idade": 22,
+            "peso": 78,
+            "altura": 1.77
+        },
+        {
+            "id": 3,
+            "nome": "Babi",
+            "idade": 21,
+            "peso": 60,
+            "altura": 1.60
+        }
+    ]
+}
