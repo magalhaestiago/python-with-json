@@ -20,6 +20,13 @@
             "idade": 21,
             "peso": 60,
             "altura": 1.60
+        },
+        {
+            "id": 4,
+            "nome": "Paula",
+            "idade": 29,
+            "peso": 46,
+            "altura": 1.55
         }
     ]
 }
