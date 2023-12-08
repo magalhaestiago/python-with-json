@@ -1,5 +1,5 @@
 from files import *
-from funcoes2 import *
+from funcoes import *
 
 
 
